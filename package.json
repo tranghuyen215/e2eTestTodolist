@@ -1,0 +1,9 @@
+{
+  "name": "endtoend",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "scripts": {}
+}
